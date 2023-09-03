@@ -7,10 +7,6 @@ var typed = new Typed(".typing",{
     loop:true
 })
 
-//Function
-submitSuccess(){
-    alert("Thank You For Getting In Touch! Message successfully sent");
-}
 
 //Aside
 
